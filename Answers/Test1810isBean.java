@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question12isBean {
+public class Test1810isBean {
 
     public static void main(String[] args) {
         System.out.println(" {4,9,8} is : " + isBean(new int[]{4,9,8}));

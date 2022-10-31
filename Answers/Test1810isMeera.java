@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question11isMeera{
+public class Test1810isMeera {
   public static void main(String[] args){
     System.out.println("Is {7,9,0,10,1} a Meera array (1:Yes, 0:No)      # " + isMeera(new int[]{7,9,0,10,1}));
     System.out.println("Is {6,10,8} a Meera array (1:Yes, 0:No)          #" + isMeera(new int[]{6,10,8}));

@@ -2,7 +2,7 @@ package saiPackage;
 
 import java.util.Arrays;
 
-public class Question05CommonElement{
+public class Test1810CommonElement {
   public static void main(String args[]){
     System.out.println("{1,8,3,2}, {4,2,6,1} : " + Arrays.toString(commonElement(new int[]{1,8,3,2}, new int[]{4,2,6,1})));
     System.out.println("{1,8,3,2,6}, {2,6,1} : " + Arrays.toString(commonElement(new int[]{1,8,3,2,6}, new int[]{2,6,1})));

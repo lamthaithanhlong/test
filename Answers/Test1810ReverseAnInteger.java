@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question04ReverseAnInteger{
+public class Test1810ReverseAnInteger {
   public static void main(String args[]){
     System.out.println("1234   : " + reverseIntWithNumericOps(1234));
     System.out.println("12005  : " + reverseIntWithNumericOps(12005));

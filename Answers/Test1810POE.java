@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question06POE{
+public class Test1810POE {
   public static void main(String[] args){
     System.out.println("POE is " + poe(new int[]{1,8,3,7,10,2}) + " for {1,8,3,7,10,2}");
     System.out.println("POE is " + poe(new int[]{1,5,3,1,1,1,1,1,1}) + " for {1,5,3,1,1,1,1,1,1}");

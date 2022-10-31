@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question02sumEvenOdd{
+public class Test1810sumEvenOdd {
   public static void main(String args[]){
     System.out.println("{1}       : " + sumEvenOdd(new int[]{1}));
     System.out.println("{1,2}     : " + sumEvenOdd(new int[]{1,2}));

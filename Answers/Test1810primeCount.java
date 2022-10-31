@@ -1,7 +1,7 @@
 package saiPackage;
 
 
-public class Question09primeCount{
+public class Test1810primeCount {
   public static void main(String[] args){
 /*    System.out.println("Prime count between 10 and 30 is : " + primeCount(10,30));
     System.out.println("Prime count between 11 and 29 is : " + primeCount(11,29));

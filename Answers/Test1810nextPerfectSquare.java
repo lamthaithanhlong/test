@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question07nextPerfectSquare{
+public class Test1810nextPerfectSquare {
   public static void main(String[] args){
     System.out.println("nextPerfectSquare of 06 is : " + nextPerfectSquare(6)); 
     System.out.println("nextPerfectSquare of 36 is : " + nextPerfectSquare(36)); 
