@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question57OneTwoOneArray{
+public class Test1810OneTwoOneArray {
     public static void main(String[] args){
         System.out.println("{1, 2, 1}                            : " + is121Array(new int[]{1, 2, 1}));
         System.out.println("{1, 1, 2, 2, 2, 1, 1}                : " + is121Array(new int[]{1, 1, 2, 2, 2, 1, 1}));

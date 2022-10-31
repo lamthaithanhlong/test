@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question62AllValuesTheSame{
+public class Test1810AllValuesTheSame {
     public static void main(String[] args){
         System.out.println("{1, 1, 1, 1}               : " + allValuesTheSame(new int[]{1, 1, 1, 1}));
         System.out.println("{83, 83, 83}               : " + allValuesTheSame(new int[]{83, 83, 83}));

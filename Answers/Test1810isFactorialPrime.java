@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question42isFactorialPrime{
+public class Test1810isFactorialPrime {
     public static void main(String[] args){
         System.out.println("Is   2 a Factorial Prime : " + isFactorialPrime(2));
         System.out.println("Is   3 a Factorial Prime : " + isFactorialPrime(3));

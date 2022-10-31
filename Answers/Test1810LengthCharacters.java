@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question03LengthCharacters{
+public class Test1810LengthCharacters {
   public static void main(String args[]){
 
     char[] str = lengthCharacters(new char[]{'a','b','c'}, 0, 4);

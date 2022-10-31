@@ -4,7 +4,7 @@
 
 package saiPackage;
 
-public class Question47vesuvian{
+public class Test1810vesuvian {
     public static void main(String[] args){
         System.out.println("Is 50 a Vesuvian : " + isVesuvian(50));
         System.out.println("Is 55 a Vesuvian : " + isVesuvian(55));

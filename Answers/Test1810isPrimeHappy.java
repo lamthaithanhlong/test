@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question39isPrimeHappy{
+public class Test1810isPrimeHappy {
     public static void main(String[] args){
         System.out.println("Is  5 a Prime Happy : " + isPrimeHappy(5));
         System.out.println("Is 25 a Prime Happy : " + isPrimeHappy(25));

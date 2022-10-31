@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question74LargestPrimeFactor{
+public class Test1810LargestPrimeFactor {
   public static void main(String[] args ){
     System.out.println("Largest Prime Factor of   10 is : " + largestPrimeFactor(10));
     System.out.println("Largest Prime Factor of 6936 is : " + largestPrimeFactor(6936));

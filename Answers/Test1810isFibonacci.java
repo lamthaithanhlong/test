@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question49isFibonacci{
+public class Test1810isFibonacci {
     public static void main(String[] args){
         System.out.println("Is  1 Fibonacci : " + isFibonacci(1));
         System.out.println("Is  2 Fibonacci : " + isFibonacci(2));

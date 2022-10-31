@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question69Hollow{
+public class Test1810Hollow {
     public static void main(String[] args){
         System.out.println("{1,2,0,0,0,3,4}              : " + isHollow(new int[]{1,2,0,0,0,3,4}));
         System.out.println("{1,1,1,1,0,0,0,0,0,2,1,2,18} : " + isHollow(new int[]{1,1,1,1,0,0,0,0,0,2,1,2,18}));

@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question23isEvenSpaced{
+public class Test1810isEvenSpaced {
   public static void main(String[] args){
       System.out.println("Is {100,19,131,140} Even Spaced : " + isEvenSpaced(new int[]{100,19,131,140}));
       System.out.println("Is {200,1,151,160} Even Spaced : " + isEvenSpaced(new int[]{200,1,151,160}));

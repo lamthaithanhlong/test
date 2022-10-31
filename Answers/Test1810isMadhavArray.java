@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question16isMadhavArray{
+public class Test1810isMadhavArray {
   public static void main(String[] args){
     System.out.println("Is {2,1,1} Madhav array : " + (isMadhavArray(new int[]{2,1,1})));
     System.out.println("Is {2,1,1,4,-1,-1} Madhav array : " + (isMadhavArray(new int[]{2,1,1,4,-1,-1})));

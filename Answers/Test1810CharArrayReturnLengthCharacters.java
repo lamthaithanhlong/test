@@ -1,8 +1,8 @@
 package saiPackage;
 
-public class Question71CharArrayReturnLengthCharacters{
+public class Test1810CharArrayReturnLengthCharacters {
 
- public Question71CharArrayReturnLengthCharacters(){}
+ public Test1810CharArrayReturnLengthCharacters(){}
   public static void main(String[] args){
     char[] str = charArrayReturnLengthCharacters(new char[]{'a','b','c'},1,2);
 

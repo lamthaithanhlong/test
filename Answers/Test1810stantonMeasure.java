@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question21stantonMeasure{
+public class Test1810stantonMeasure {
   public static void main(String[] args){
     System.out.println("Is {1} stantoMeasure (1:Yes, 0:No) # " + stantonMeasure(new int[]{1}));
     System.out.println("Is {0} stantoMeasure (1:Yes, 0:No) # " + stantonMeasure(new int[]{0}));

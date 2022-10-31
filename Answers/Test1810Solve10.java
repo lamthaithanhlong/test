@@ -1,5 +1,5 @@
 package saiPackage;
-public class Question70Solve10{
+public class Test1810Solve10 {
     public static void main(String[] args){
         int[] result = solve10();
         for(int number : result){

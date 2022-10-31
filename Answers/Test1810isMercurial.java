@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question51isMercurial{
+public class Test1810isMercurial {
     public static void main(String[] args){
         System.out.println("{1, 2, 10, 3, 15, 1, 2, 2}     : " + isMercurial(new int[]{1, 2, 10, 3, 15, 1, 2, 2}));
         System.out.println("{5, 2, 10, 3, 15, 1, 2, 2}     : " + isMercurial(new int[]{5, 2, 10, 3, 15, 1, 2, 2}));

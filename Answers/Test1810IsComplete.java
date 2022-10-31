@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question60IsComplete{
+public class Test1810IsComplete {
     public static void main(String[] args){
         System.out.println ("{36, -28}                        : " + isComplete(new int[]{36, -28} ));
         System.out.println ("{36, 28}                         : " + isComplete(new int[]{36, 28}));

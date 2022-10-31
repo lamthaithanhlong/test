@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question31matchPattern{
+public class Test1810matchPattern {
     public static void main(String[] args){
         System.out.println ("{1, 1, 1, 1, 1} | {1} : " + matchPattern(new int[]{1, 1, 1, 1, 1},5,new int[]{1},1));
         System.out.println ("{1} | {1} : " + matchPattern(new int[]{1},1,new int[]{1},1));

@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question59IsSquare{
+public class Test1810IsSquare {
     public static void main(String[] args){
         System.out.println(" 4 is square : " + isSquare(4));
         System.out.println("25 is square : " + isSquare(25));

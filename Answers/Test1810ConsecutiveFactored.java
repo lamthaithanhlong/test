@@ -2,7 +2,7 @@ package saiPackage;
 
 
 
-public class Question77ConsecutiveFactored{
+public class Test1810ConsecutiveFactored {
     public static void main(String[] args){
         System.out.println("Is  24 Conseccutive Factored : " + isConsectiveFactored(24));
         System.out.println("Is 105 Conseccutive Factored : " + isConsectiveFactored(105));

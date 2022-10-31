@@ -1,7 +1,7 @@
 
 package saiPackage;
 
-public class Question63HasNValues{
+public class Test1810HasNValues {
     public static void main(String[] args){
         System.out.println("{1, 2, 2, 1}, 2                     : " + hasNValues(new int[]{1, 2, 2, 1}, 2));
         System.out.println("{1, 1, 1, 8, 1, 1, 1, 3, 3}, 3      : " + hasNValues(new int[]{1, 1, 1, 8, 1, 1, 1, 3, 3}, 3)); 

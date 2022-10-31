@@ -1,5 +1,5 @@
 package saiPackage;
-    public class Question55pairedN{
+    public class Test1810pairedN {
         public static void main(String[] args){
             System.out.println("{1, 4, 1, 4, 5, 6}         ,5 : " + isPairedN(new int[] {1, 4, 1, 4, 5, 6},5));
             System.out.println("{1, 4, 1, 4, 5, 6}         ,6 : " + isPairedN(new int[] {1, 4, 1, 4, 5, 6},6));

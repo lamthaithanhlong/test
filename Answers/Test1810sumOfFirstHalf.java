@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question15sumOfFirstHalf{
+public class Test1810sumOfFirstHalf {
   public static void main(String[] args){
     System.out.println("The result is {5,4,3,2,3,4,6,1} : " + answerThree(new int[]{5,4,3,2,3,4,6,1}));
     System.out.println("The result is {5,4,3,2,3,3,4,6,1} : " + answerThree(new int[]{5,4,3,2,3,3,4,6,1}));

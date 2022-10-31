@@ -2,7 +2,7 @@ package saiPackage;
 
 
 
-public class Question78TwinPrime{
+public class Test1810TwinPrime {
     public static void main(String[] args){
         System.out.println("Is  5 Twin Prime : " + isTwinPrime(5));
         System.out.println("Is  7 Twin Prime : " + isTwinPrime(7));

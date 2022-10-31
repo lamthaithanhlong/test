@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question79LargestAdjacentSum{
+public class Test1810LargestAdjacentSum {
     public static void main(String[] args){
         System.out.println("{1, 2, 3, 4}        : " + largestAdjacentSum(new int[]{1, 2, 3, 4}));
         System.out.println("{18, -12, 9, -10}   : " + largestAdjacentSum(new int[]{18, -12, 9, -10}));

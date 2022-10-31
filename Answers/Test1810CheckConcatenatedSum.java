@@ -2,7 +2,7 @@ package saiPackage;
 
 
 
-public class Question72CheckConcatenatedSum{
+public class Test1810CheckConcatenatedSum {
     public static void main(String[] args){
         System.out.println("(  198,2) is : " + checkConcatenatedSum(  198,2));
         System.out.println("(  198,3) is : " + checkConcatenatedSum(  198,3));

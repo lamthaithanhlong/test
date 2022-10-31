@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question46closestFibonacci{
+public class Test1810closestFibonacci {
     public static void main(String[] args){
         printFibonacci(15); 
         System.out.println ("Closest Fibonacci of  7 is : " + closestFibonacci(7));

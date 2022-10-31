@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question54martianArray{
+public class Test1810martianArray {
     public static void main(String[] args){
         System.out.println("Is {1, 3} Martian                      : " + isMartian(new int[]{1, 3}));
         System.out.println("Is {1, 2, 1, 2, 1, 2, 1, 2, 1} Martian : " + isMartian(new int[]{1, 2, 1, 2, 1, 2, 1, 2, 1}));

@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question01IsCentered {
+public class Test1810IsCentered {
 
     public static void main(String[] args) {
         System.out.println("{3,2,1,4,1} : " + isCentered(new int[]{3,2,1,4,1}));

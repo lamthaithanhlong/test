@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question36isDigitIncreasing{
+public class Test1810isDigitIncreasing {
     public static void main(String[] args){
         System.out.println("Is    7 digit increasing : " + isDigitIncreasing(7));
         System.out.println("Is   36 digit increasing : " + isDigitIncreasing(36));

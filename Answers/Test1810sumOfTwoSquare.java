@@ -4,7 +4,7 @@
 
 package saiPackage;
 
-public class Question13sumOfTwoSquare{
+public class Test1810sumOfTwoSquare {
   public static void main(String[] args){
     int ret = 0;
 

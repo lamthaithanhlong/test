@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question43largestDifferenceOfEvens{
+public class Test1810largestDifferenceOfEvens {
     public static void main(String[] args){
         System.out.println("{1, 3, 5, 9}                : " + largestDifferenceOfEvens(new int[]{1, 3, 5, 9}));
         System.out.println("{1, 18, 5, 7, 33}           : " + largestDifferenceOfEvens(new int[]{1, 18, 5, 7, 33}));

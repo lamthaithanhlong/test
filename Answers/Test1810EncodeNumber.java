@@ -2,7 +2,7 @@ package saiPackage;
 
 
 
-public class Question375ncodeNumber{
+public class Test1810EncodeNumber {
     public static void main(String[] args){
         int number = 1200;
         int[] ret = encodeNumber(number);

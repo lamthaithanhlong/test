@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question48isOneBalanced{
+public class Test1810isOneBalanced {
     public static void main(String[] args){
         System.out.println("{1, 1, 1, 2, 3, -18, 45, 1} : " + isOneBalanced(new int[]{1, 1, 1, 2, 3, -18, 45, 1}));
         System.out.println("{1,1,1,2,3,-18,45,1,0}      : " + isOneBalanced(new int[]{1,1,1,2,3,-18,45,1,0}));

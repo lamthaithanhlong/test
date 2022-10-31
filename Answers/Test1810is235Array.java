@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question52is235Array{
+public class Test1810is235Array {
     public static void main(String[] args){
         System.out.println("{2, 3, 5, 7, 11}             : " + is235Array(new int[] {2, 3, 5, 7, 11}));
         System.out.println("{2, 3, 6, 7, 11}             : " + is235Array(new int[] {2, 3, 6, 7, 11}));

@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question37decodeArrayTwo{
+public class Test1810decodeArrayTwo {
     public static void main(String[] args){
         System.out.println("decode array of {1} is                      :" + decodeArray(new int[]{1}));
         System.out.println("decode array of {0, 1} is                   :" + decodeArray(new int[]{0, 1}));

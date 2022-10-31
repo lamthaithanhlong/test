@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question44isHodder{
+public class Test1810isHodder {
     public static void main(String[] args){
         System.out.println("Is   3 Hodder : " + isHodder(3));
         System.out.println("Is   7 Hodder : " + isHodder(7));

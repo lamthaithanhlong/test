@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question33cubePowerful{
+public class Test1810cubePowerful {
     public static void main(String[] args){
         System.out.println("Is 153 Cube Powerful (1:Yes, 0:No) # " + isCubePowerful(153));
         System.out.println("Is 370 Cube Powerful (1:Yes, 0:No) # " + isCubePowerful(370));

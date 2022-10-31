@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question18countSquarePairs{
+public class Test1810countSquarePairs {
   public static void main(String[] args){
     System.out.println("Square Pairs in {9,0,2,-5,7} : " + countSquarePairs(new int[]{9,0,2,-5,7}));
     System.out.println("Square Pairs in {9} : " + countSquarePairs(new int[]{9}));

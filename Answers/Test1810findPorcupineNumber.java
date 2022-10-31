@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question19findPorcupineNumber{
+public class Test1810findPorcupineNumber {
   public static void main(String[] args){
     System.out.println("Next Porcupine Number of 0 is : " + findPorcupineNumber(0));
     System.out.println("Next Porcupine Number of 3 is : " + findPorcupineNumber(3));

@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question20isGuthrieSequence{
+public class Test1810isGuthrieSequence {
   public static void main(String[] args){
     System.out.println("Is {8,4,2,1} a GuthrieSequence (1:Yes, 0:No) # " + isGuthrieSequence(new int[]{8,4,2,1}));
     System.out.println("Is {8,17,4,1} a GuthrieSequence (1:Yes, 0:No) # " + isGuthrieSequence(new int[]{8,17,4,1}));

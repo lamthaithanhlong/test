@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question58PairwiseSum{
+public class Test1810PairwiseSum {
     public static void main(String[] args){
 
         int[] a= pairwiseSum(new int[]{2, 1, 18, -5});

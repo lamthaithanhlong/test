@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question14mostOccurringNumber{
+public class Test1810mostOccurringNumber {
   public static void main(String[] args){
     System.out.println("Most occurring no. in {6,8,1,8,3} is " + answerTwo(new int[]{6,8,1,8,3}));
     System.out.println("Most occurring no. in {6,8,1,8,6} is " + answerTwo(new int[]{6,8,1,8,6}));

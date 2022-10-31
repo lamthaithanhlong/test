@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question32doIntegerBasedRounding{
+public class Test1810doIntegerBasedRounding {
     public static void main(String[] args){
         doIntegerBasedRounding(new int[]{1, 2, 3, 4, 5}     , 2);
         doIntegerBasedRounding(new int[]{1, 2, 3, 4, 5}     , 3);

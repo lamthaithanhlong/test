@@ -1,7 +1,7 @@
 package saiPackage;
 import java.util.Arrays;
 
-public class Question17isInertial{
+public class Test1810isInertial {
   public static void main(String[] args){
     System.out.println("Is {1} inertial : " + isInertial(new int[]{1}));
     System.out.println("Is {2} inertial : " + isInertial(new int[]{2}));

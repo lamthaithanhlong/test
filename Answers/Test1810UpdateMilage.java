@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question68UpdateMilage{
+public class Test1810UpdateMilage {
     public static void main(String[] args){
         int[] a = new int[]{8, 9, 9, 5, 0};
         updateMileageCounter(a, 1);

@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question25isSym{
+public class Test1810isSym {
   public static void main(String[] args){
     System.out.println("Is {2,7,9,10,11,5,8}  Symmetrical : " + isSym(new int[]{2,7,9,10,11,5,8}));
     System.out.println("Is {9,8,7,13,14,17}   Symmetrical : " + isSym(new int[]{9,8,7,13,14,17}));

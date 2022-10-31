@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question64SameNumberOfFactors{
+public class Test1810SameNumberOfFactors {
     public static void main(String[] args){
         System.out.println("-6,21 : " + sameNumberOfFactors(-6,21));
         System.out.println(" 6,21 : " + sameNumberOfFactors( 6,21));

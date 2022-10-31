@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question61LoopSum{
+public class Test1810LoopSum {
     public static void main(String[] args){
         System.out.println("{1, 2, 3},2    : " + loopSum(new int[]{1, 2, 3},2));
         System.out.println("{-1, 2, -1},7  : " + loopSum(new int[]{-1, 2, -1},7));

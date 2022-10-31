@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question34decodeArray{
+public class Test1810decodeArray {
     public static void main(String[] args){
         System.out.println("Decode Array of {0, -3, 0, -4, 0}     : " + decodeArray(new int[]{0, -3, 0, -4, 0}));
         System.out.println("Decode Array of {-1, 5, 8, 17, 15}    : " + decodeArray(new int[] {-1, 5, 8, 17, 15}));

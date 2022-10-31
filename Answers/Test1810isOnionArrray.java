@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question38isOnionArrray{
+public class Test1810isOnionArrray {
     public static void main(String[] args){
         System.out.println("Is {1, 2, 19, 4, 5} Onion Array : " + isOnionArray(new int[]{1, 2, 19, 4, 5}));
         System.out.println("Is {1, 2, 3, 4, 15} Onion Array : " + isOnionArray(new int[]{1, 2, 3, 4, 15}));

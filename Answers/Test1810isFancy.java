@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question10isFancy{
+public class Test1810isFancy {
   public static void main(String[] args){
     System.out.println("Is 1 a Fancy number (1:fancy, 0:notFancy) # " + isFancy(1));
     System.out.println("Is 5 a Fancy number (1:fancy, 0:notFancy) # " + isFancy(5));

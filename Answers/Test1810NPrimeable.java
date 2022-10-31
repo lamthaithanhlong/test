@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question56NPrimeable{
+public class Test1810NPrimeable {
     public static void main(String[] args){
         System.out.println("{5, 15, 27}          ,2 : " + isNPrimeable(new int[]{5, 15, 27}          ,2));
         System.out.println("{5, 15, 27}          ,3 : " + isNPrimeable(new int[]{5, 15, 27}          ,3));

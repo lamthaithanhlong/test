@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question67Layered{
+public class Test1810Layered {
     public static void main(String[] args){
         System.out.println("{1,1,2,2,2,3,3} : " + isLayered(new int[]{1,1,2,2,2,3,3}));
         System.out.println("{3,3,3,3,3,3,3} : " + isLayered(new int[]{3,3,3,3,3,3,3}));

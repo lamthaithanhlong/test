@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question08nUpCount{
+public class Test1810nUpCount {
   public static void main(String[] args){
     System.out.println ("n UpCount is : " + nUpCount(new int[]{2,3,1,-6,8,-3,-1,2}, 5));
   }

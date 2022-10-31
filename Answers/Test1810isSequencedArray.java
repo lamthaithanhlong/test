@@ -2,7 +2,7 @@ package saiPackage;
 
 
 
-public class Question73isSequencedArray{
+public class Test1810isSequencedArray {
   public static void main(String[] args){
    System.out.println("Is ({1, 2, 3, 4, 5}, 1, 5)    sequenced array : " + isSequencedArray(new int[]{1, 2, 3, 4, 5}, 1, 5));
     System.out.println("Is ({1, 3, 4, 2, 5}, 1, 5)    sequenced array : " + isSequencedArray(new int[]{1, 3, 4, 2, 5}, 1, 5));

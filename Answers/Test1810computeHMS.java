@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question53computeHMS{
+public class Test1810computeHMS {
     public static void main(String[] args){
         int seconds = Integer.parseInt(args[0]);
         int[] a = computeHMS(seconds);

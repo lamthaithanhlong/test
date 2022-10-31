@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question24isSub{
+public class Test1810isSub {
     public static void main(String[] args){
         System.out.println("Is {13,6,3,2} Sub Array : " + isSub(new int[]{13,6,3,2}));
         System.out.println("Is {11,5,3,2} Sub Array : " + isSub(new int[]{11,5,3,2}));

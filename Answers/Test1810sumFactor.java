@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question22sumFactor{
+public class Test1810sumFactor {
     public static void main(String[] args){
         System.out.println("Sum Factor of {3,0,2,-5,0}    is : " + sumFactor(new int[]{3,0,2,-5,0}));
         System.out.println("Sum Factor of {9,-3,-3,-1,-1} is : " + sumFactor(new int[]{9,-3,-3,-1,-1}));

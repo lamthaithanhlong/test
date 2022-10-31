@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question35isZeroPlentiful{
+public class Test1810isZeroPlentiful {
     public static void main(String[] args){
         System.out.println("{0, 0, 0, 0, 0} : " + isZeroPlentiful(new int[]{0, 0, 0, 0, 0}));
         System.out.println("{1, 2, 0, 0, 0, 0, 2, -18, 0, 0, 0, 0, 0, 12} : " + isZeroPlentiful(new int[]{1, 2, 0, 0, 0, 0, 2, -18, 0, 0, 0, 0, 0, 12}));

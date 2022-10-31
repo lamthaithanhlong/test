@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question76areAnagrams{
+public class Test1810areAnagrams {
     public static void main(String[] args){
         System.out.println(" {'s', 'i', 't'}, {'i', 't', 's'} : " + areAnagrams(new char[]{'s', 'i', 't'}, new char[]{'i', 't', 's'}));
         System.out.println(" {'s', 'i', 't'}, {'i', 'd', 's'} : " + areAnagrams(new char[]{'s', 'i', 't'}, new char[]{'i', 'd', 's'}));

@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question50isTriangular{
+public class Test1810isTriangular {
     public static void main(String[] args){
         System.out.println("Is  1 Triangular : " + isTriangular(1));
         System.out.println("Is  3 Triangular : " + isTriangular(3));

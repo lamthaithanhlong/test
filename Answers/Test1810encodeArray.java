@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question40encodeArray{
+public class Test1810encodeArray {
     public static void main(String[] args){
         int n = Integer.parseInt(args[0]);
 

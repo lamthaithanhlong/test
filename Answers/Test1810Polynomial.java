@@ -1,6 +1,6 @@
 package saiPackage;
 
-public class Question65Polynomial{
+public class Test1810Polynomial {
     public static void main(String[] args){
         System.out.println(" 1.0,{0,1,2,3,4} : " + eval( 1.0,new int[]{0,1,2,3,4} ));
         System.out.println(" 3.0,{3, 2, 1}   : " + eval( 3.0,new int[]{3, 2, 1}));
